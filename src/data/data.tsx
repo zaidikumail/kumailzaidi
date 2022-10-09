@@ -126,12 +126,12 @@ export const skills: SkillGroup[] = [
         level: 10,
       },
       {
-        name: 'French',
-        level: 4,
+        name: 'Urdu',
+        level: 10,
       },
       {
-        name: 'Spanish',
-        level: 3,
+        name: 'Turkish',
+        level: 4,
       },
     ],
   },
@@ -265,15 +265,15 @@ export const portfolioItems: PortfolioItem[] = [
  */
 export const education: TimelineItem[] = [
   {
-    date: 'April 2007',
-    location: 'Clown college',
-    title: 'Masters in Beer tasting',
+    date: 'June 2020',
+    location: 'Tufts University',
+    title: 'Masters of Science in Astrophysics',
     content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
   },
   {
-    date: 'March 2003',
-    location: 'School of Business',
-    title: 'What did you study 101',
+    date: 'June 2018',
+    location: 'Bilkent University in Turkey',
+    title: 'Bachelors of Science in Physics',
     content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
   },
 ];
