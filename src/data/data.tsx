@@ -352,8 +352,8 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Github,
-      text: 'tbakerx',
-      href: 'https://github.com/tbakerx',
+      text: 'zaidikumail',
+      href: 'https://github.com/zaidikumail',
     },
   ],
 };
