@@ -107,9 +107,9 @@ export const aboutData: About = {
   aboutItems: [
     {label: 'Location', text: 'Medford, MA', Icon: MapIcon},
     {label: 'Age', text: '27', Icon: CalendarIcon},
-    {label: 'Interests', text: 'Motorcycles, Muay Thai, Banjos', Icon: SparklesIcon},
+    {label: 'Interests', text: 'Gym, Travel', Icon: SparklesIcon},
+     {label: 'Nationality', text: 'Pakistan', Icon: FlagIcon},
     {label: 'Study', text: 'Bilkent University', Icon: AcademicCapIcon},
-    {label: 'Study', text: 'Tufts University', Icon: AcademicCapIcon},
     {label: 'Employment', text: 'Instant Domains, inc.', Icon: OfficeBuildingIcon},
   ],
 };
