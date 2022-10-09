@@ -73,8 +73,7 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Boston based <strong className="text-stone-100">Astrophysics PhD student</strong> of Tufts University working with Prof. Danilo Marchesini. My research focuses on the <strong className="text-stone-100">Formation and Evolution of Galaxies</strong>  since the early days of the Universe.      
-</p>
+        I'm a Boston based <strong className="text-stone-100">Astrophysics PhD student</strong> of Tufts University working with Prof. Danilo Marchesini. My research focuses on the <strong className="text-stone-100">Formation and Evolution of Galaxies</strong>  since the early days of the Universe.      </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
         plucking my <strong className="text-stone-100">banjo</strong>, or exploring beautiful{' '}
