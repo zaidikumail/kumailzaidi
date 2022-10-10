@@ -193,7 +193,7 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
   {
-    title: 'Project title 1',
+    title: 'FENIKS UDS Catalog',
     description: 'Give a short description of your project here.',
     url: 'https://timbaker.me',
     image: porfolioImage1,
