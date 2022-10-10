@@ -188,13 +188,13 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
   {
-    title: 'FENIKS UDS Catalog',
-    description: 'Give a short description of your project here.',
+    title: 'Deconvolution of Ultra-massive Galaxies at 3 < z < 4',
+    description: 'Example of deconvolution using Firdec (a finite resolution deconvolution software)',
     url: 'https://timbaker.me',
     image: porfolioImage1,
   },
   {
-    title: 'Project title 2',
+    title: 'FENIKS UDS catalog',
     description: 'Give a short description of your project here.',
     url: 'https://timbaker.me',
     image: porfolioImage2,
