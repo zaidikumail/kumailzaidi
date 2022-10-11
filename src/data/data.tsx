@@ -280,19 +280,17 @@ export const leadership: TimelineItem[] = [
     title: 'International Student Chair',
     content: (
       <p>
-        Describe work, special projects, notable achievements, what technologies you have been working with, and
-        anything else that would be useful for an employer to know.
+        Organization and planning of events for international graduate students at Tufts University.
       </p>
     ),
   },
   {
     date: 'March 2007 - February 2010',
     location: 'Garage Startup Studio',
-    title: 'Junior bug fixer',
+    title: 'Graduate Student Union Steward',
     content: (
       <p>
-        Describe work, special projects, notable achievements, what technologies you have been working with, and
-        anything else that would be useful for an employer to know.
+        Resposible for bringing the concerns of graduate students to the graduate student workers union and figuring out the solutions.
       </p>
     ),
   },
