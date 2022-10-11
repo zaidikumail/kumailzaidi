@@ -92,7 +92,7 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: 'The vastness of the space and the mysteries of the universe always keep me drawn in. I also enjoy the problem-solving and game-like nature of coding. Perhaps then, it is no surprise that I chose to build my career in Astronomy where I can scratch those itches.',
+  description: 'The behavior of the cosmos on grand-scales always keeps me drawn in. I also enjoy the problem-solving power of coding. Perhaps then, it is no surprise that I chose to build my career in Astronomy where I can keep myself in awe of the grandiosity of nature while sifting through data using programming.',
   aboutItems: [
     {label: 'Location', text: 'Medford, MA', Icon: MapIcon},
     {label: 'Age', text: '27', Icon: CalendarIcon},
