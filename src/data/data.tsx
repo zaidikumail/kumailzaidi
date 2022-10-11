@@ -275,20 +275,19 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: 'March 2010 - Present',
-    location: 'Awesome Development Company',
-    title: 'Senior UX Engineer',
+    date: 'Sep 2021 - June 2022',
+    location: 'Graduate Student Council (GSC) at Tufts',
+    title: 'International Student Chair',
     content: (
       <p>
-        Describe work, special projects, notable achievements, what technologies you have been working with, and
-        anything else that would be useful for an employer to know.
+        Organization and planning of events for international graduate students at Tufts University.
       </p>
     ),
   },
   {
-    date: 'March 2007 - February 2010',
-    location: 'Garage Startup Studio',
-    title: 'Junior bug fixer',
+    date: 'Sep 2019 - May 2022',
+    location: 'Physics Education Research at Tufts',
+    title: 'Listening Project participant',
     content: (
       <p>
         Describe work, special projects, notable achievements, what technologies you have been working with, and
