@@ -295,12 +295,12 @@ export const experience: TimelineItem[] = [
     ),
   },
   {
-    date: 'Sep 2019 - May 2022',
+    date: 'Sep 2018 - Dec 2020',
     location: 'Physics Education Research at Tufts',
-    title: 'Listening Project participant',
+    title: 'Graduate Teaching Assistant',
     content: (
       <p>
-        This was an education research project in which student artifacts were analyzed to develop the skill of becoming better at probing and understanding student thinking and ultimately becoming better teachers. I spent one academic year as a general participant and the following year as a coach.
+        1- Freshman Physics Lab (Physics 1/11 & Physics 2/12). 2- Introductory Astronomy (AST 10)
       </p>
     ),
   },
