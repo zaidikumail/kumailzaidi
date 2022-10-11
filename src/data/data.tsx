@@ -273,11 +273,11 @@ export const education: TimelineItem[] = [
   },
 ];
 
-export const leadership: TimelineItem[] = [
+export const experience: TimelineItem[] = [
   {
-    date: 'Sep 2021 - June 2022',
-    location: 'Graduate Student Council (GSC)',
-    title: 'International Student Chair',
+    date: 'March 2010 - Present',
+    location: 'Awesome Development Company',
+    title: 'Senior UX Engineer',
     content: (
       <p>
         Describe work, special projects, notable achievements, what technologies you have been working with, and
