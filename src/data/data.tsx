@@ -290,7 +290,7 @@ export const experience: TimelineItem[] = [
     title: 'Listening Project participant',
     content: (
       <p>
-        This was aneducation research project in which student artifacts were analyzed to become better at probing and understanding student thinking. I spent one year as a general participant and the following year as a coach.
+        This was an education research project in which student artifacts were analyzed to become better at probing and understanding student thinking. I spent one year as a general participant and the following year as a coach.
       </p>
     ),
   },
