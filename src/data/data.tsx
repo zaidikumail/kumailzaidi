@@ -92,9 +92,7 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `Use this bio section as your way of describing yourself and saying what you do, what technologies you like
-  to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
-  in.`,
+  description: 'The vastness of the space and the mysteries of the universe always keep me drawn in. I also enjoy the problem-solving and game-like nature of coding. Perhaps then, it is no surprise that I chose to build my career in Astronomy where I can scratch those itches.',
   aboutItems: [
     {label: 'Location', text: 'Medford, MA', Icon: MapIcon},
     {label: 'Age', text: '27', Icon: CalendarIcon},
