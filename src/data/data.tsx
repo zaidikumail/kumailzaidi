@@ -263,7 +263,6 @@ export const education: TimelineItem[] = [
     date: 'June 2020',
     location: 'Tufts University',
     title: 'Masters of Science in Astrophysics',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
   },
   {
     date: 'June 2018',
