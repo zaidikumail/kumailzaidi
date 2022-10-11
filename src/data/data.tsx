@@ -290,8 +290,7 @@ export const experience: TimelineItem[] = [
     title: 'Listening Project participant',
     content: (
       <p>
-        Describe work, special projects, notable achievements, what technologies you have been working with, and
-        anything else that would be useful for an employer to know.
+        This was aneducation research project in which student artifacts were analyzed to become better at probing and understanding student thinking. I spent one year as a general participant and the following year as a coach.
       </p>
     ),
   },
