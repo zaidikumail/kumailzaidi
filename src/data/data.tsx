@@ -269,7 +269,7 @@ export const education: TimelineItem[] = [
     date: 'June 2018',
     location: 'Bilkent University in Turkey',
     title: 'Bachelors of Science in Physics',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p></p>,
   },
 ];
 
