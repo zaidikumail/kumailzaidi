@@ -25,7 +25,6 @@ import profilepic from '../images/profilepic.jpg';
 import testimonialImage from '../images/testimonial.webp';
 import {
   About,
-  ContactSection,
   ContactType,
   Hero,
   HomepageMeta,
@@ -328,31 +327,6 @@ export const testimonial: TestimonialSection = {
   ],
 };
 
-/**
- * Contact section
- */
-
-export const contact: ContactSection = {
-  headerText: 'Get in touch.',
-  description: 'Here is a good spot for a message to your readers to let them know how best to reach out to you.',
-  items: [
-    {
-      type: ContactType.Email,
-      text: 'kumail.zaidi@tufts.edu',
-      href: 'mailto:kumail.zaidi@tufts.edu',
-    },
-    {
-      type: ContactType.Location,
-      text: 'Boston MA, US',
-      href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
-    },
-    {
-      type: ContactType.Github,
-      text: 'zaidikumail',
-      href: 'https://github.com/zaidikumail',
-    },
-  ],
-};
 
 /**
  * Social items
