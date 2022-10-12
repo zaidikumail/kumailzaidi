@@ -107,6 +107,14 @@ export interface Testimonial {
   text: string;
 }
 
+/**
+ * Contact section
+ */
+export interface ContactSection {
+  headerText?: string;
+  description: string;
+  items: ContactItem[];
+}
 
 export const ContactType = {
   Email: 'Email',
