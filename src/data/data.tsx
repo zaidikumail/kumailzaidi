@@ -105,6 +105,7 @@ export const aboutData: About = {
 /**
  * Skills section
  */
+
 export const skills: SkillGroup[] = [
   {
     name: 'Spoken languages',
@@ -175,6 +176,8 @@ export const skills: SkillGroup[] = [
     ],
   },
 ];
+
+
 
 /**
  * Portfolio section
