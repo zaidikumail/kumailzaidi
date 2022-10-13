@@ -334,7 +334,7 @@ export const testimonial: TestimonialSection = {
 
 export const contact: ContactSection = {
   headerText: 'Get in touch.',
-  description: 'The contact form is not working right now. Please contact me via email directly. Thanks!',
+  description: 'The contact form is not yet configured. Please contact me via email below directly. Thanks!',
   items: [
     {
       type: ContactType.Email,
@@ -344,7 +344,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Location,
       text: 'Greater Boston MA, United States',
-      href: 'https://www.google.ca/maps/place/Boston+Metropolitan+Area/@42.4196097,-71.527806,10.72z/data=!4m5!3m4!1s0x89e30b92b7c5e443:0x78ad15d3851547d6!8m2!3d42.3600709!4d-71.0588305',
+      href: 'https://www.google.ca/maps/place/Boston+Metropolitan+Area/@42.4196097,-71.527806,10z/data=!4m5!3m4!1s0x89e30b92b7c5e443:0x78ad15d3851547d6!8m2!3d42.3600709!4d-71.0588305',
     },
     {
       type: ContactType.Github,
