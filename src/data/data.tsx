@@ -343,8 +343,8 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Location,
-      text: 'Boston MA, US',
-      href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
+      text: 'Greater Boston MA, United States',
+      href: 'https://www.google.ca/maps/place/Medford,+MA/@42.4247436,-71.1458344,13z/data=!3m1!4b1!4m5!3m4!1s0x89e376b753eab455:0x2a3537a8265565ec!8m2!3d42.4184296!4d-71.1061639',
     },
     {
       type: ContactType.Github,
