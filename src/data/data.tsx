@@ -343,11 +343,6 @@ export const contact: ContactSection = {
       href: 'mailto:kumail.zaidi@tufts.edu',
     },
     {
-      type: ContactType.Location,
-      text: 'Greater Boston MA, United States',
-      href: 'https://www.google.ca/maps/place/Boston+Metropolitan+Area/@42.4196097,-71.527806,10z/data=!4m5!3m4!1s0x89e30b92b7c5e443:0x78ad15d3851547d6!8m2!3d42.3600709!4d-71.0588305',
-    },
-    {
       type: ContactType.Github,
       text: 'zaidikumail',
       href: 'https://github.com/zaidikumail',
@@ -356,6 +351,11 @@ export const contact: ContactSection = {
       type: ContactType.LinkedIn,
       text: 'kumail-zaidi-9948b1133',
       href: 'https://www.linkedin.com/in/kumail-zaidi-9948b1133/',
+    },
+    {
+      type: ContactType.Location,
+      text: 'Collaborative Learning and Innovation Complex, 574 Boston Ave, Medford, MA 02155',
+      href: 'https://goo.gl/maps/cJvEzFtAURGUQm738',
     },
   ],
 };
