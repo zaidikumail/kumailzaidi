@@ -351,6 +351,11 @@ export const contact: ContactSection = {
       text: 'zaidikumail',
       href: 'https://github.com/zaidikumail',
     },
+    {
+      type: ContactType.LinkedIn,
+      text: 'kumail-zaidi-9948b1133',
+      href: 'https://www.linkedin.com/in/kumail-zaidi-9948b1133/',
+    },
   ],
 };
 
