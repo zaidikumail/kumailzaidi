@@ -344,7 +344,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Location,
       text: 'Greater Boston MA, United States',
-      href: 'https://www.google.ca/maps/place/Medford,+MA/@42.4247436,-71.1458344,13z/data=!3m1!4b1!4m5!3m4!1s0x89e376b753eab455:0x2a3537a8265565ec!8m2!3d42.4184296!4d-71.1061639',
+      href: 'https://www.google.ca/maps/place/Boston+Metropolitan+Area/@42.4196097,-71.527806,10.72z/data=!4m5!3m4!1s0x89e30b92b7c5e443:0x78ad15d3851547d6!8m2!3d42.3600709!4d-71.0588305',
     },
     {
       type: ContactType.Github,
