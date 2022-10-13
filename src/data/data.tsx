@@ -74,7 +74,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'https://github.com/zaidikumail/kumailzaidi/raw/main/src/resume.pdf',
+      href: 'https://github.com/zaidikumail/kumailzaidi/raw/main/src/Kumail_Zaidi_resume.pdf',
       text: 'Resume',
       primary: true,
       Icon: DownloadIcon,
