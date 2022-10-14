@@ -5,8 +5,9 @@ import {
   MapIcon,
   OfficeBuildingIcon,
   SparklesIcon,
+  MailIcon,
 } from '@heroicons/react/outline';
-import {DeviceMobileIcon, LocationMarkerIcon, MailIcon} from '@heroicons/react/outline';
+
 import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import heroImage from '../images/header-background.webp';
