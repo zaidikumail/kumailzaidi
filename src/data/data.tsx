@@ -364,7 +364,7 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Email', Icon: MailIcon, href: 'mailto:kumail.zaidi@tufts.edu'},
+  {label: 'Email', Icon: LinkedInIcon, href: 'mailto:kumail.zaidi@tufts.edu'},
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/zaidikumail'},
   {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/kumail-zaidi-9948b1133/'},
 ];
