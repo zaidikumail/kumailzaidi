@@ -5,9 +5,9 @@ import {
   MapIcon,
   OfficeBuildingIcon,
   SparklesIcon,
-  MailIcon,
 } from '@heroicons/react/outline';
 
+import MailIcon from '../components/Icon/MailIcon';
 import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import heroImage from '../images/header-background.webp';
