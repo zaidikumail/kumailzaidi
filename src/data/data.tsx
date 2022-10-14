@@ -5,7 +5,6 @@ import {
   MapIcon,
   OfficeBuildingIcon,
   SparklesIcon,
-  MailIcon,
 } from '@heroicons/react/outline';
 
 import GithubIcon from '../components/Icon/GithubIcon';
