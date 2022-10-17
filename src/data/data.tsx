@@ -1,8 +1,8 @@
 import {
-  MailIcon,
   AcademicCapIcon,
   CalendarIcon,
   DownloadIcon,
+  MailIcon,
   MapIcon,
   OfficeBuildingIcon,
   SparklesIcon,
