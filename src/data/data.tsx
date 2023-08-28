@@ -96,7 +96,7 @@ export const aboutData: About = {
   description: 'The behavior of the cosmos on grand-scales always keeps me drawn in. I also enjoy the problem-solving power of coding. Perhaps then, it is no surprise that I chose to build my career in Astronomy where I can keep myself in awe of the grandiosity of nature while sifting through data using programming.',
   aboutItems: [
     {label: 'Location', text: 'Greater Boston, MA', Icon: MapIcon},
-    {label: 'Age', text: '28', Icon: CalendarIcon},
+    {label: 'Age', text: '27', Icon: CalendarIcon},
     {label: 'Interests', text: 'gym, traveling, road tripping, driving, movies, concerts', Icon: SparklesIcon},
     {label: 'Undergrad', text: 'Bilkent University', Icon: AcademicCapIcon},
     {label: 'PhD student at', text: 'Tufts University', Icon: OfficeBuildingIcon},
