@@ -52,7 +52,7 @@ export const SectionId = {
   Hero: 'hero',
   About: 'about',
   Contact: 'contact',
-  Portfolio: 'portfolio',
+  Portfolio: 'research',
   Resume: 'resume',
   Skills: 'skills',
   Stats: 'stats',
@@ -96,7 +96,7 @@ export const aboutData: About = {
   description: 'The behavior of the cosmos on grand-scales always keeps me drawn in. I also enjoy the problem-solving power of coding. Perhaps then, it is no surprise that I chose to build my career in Astronomy where I can keep myself in awe of the grandiosity of nature while sifting through data using programming.',
   aboutItems: [
     {label: 'Location', text: 'Greater Boston, MA', Icon: MapIcon},
-    {label: 'Age', text: '27', Icon: CalendarIcon},
+    {label: 'Age', text: '28', Icon: CalendarIcon},
     {label: 'Interests', text: 'gym, traveling, road tripping, driving, movies, concerts', Icon: SparklesIcon},
     {label: 'Undergrad', text: 'Bilkent University', Icon: AcademicCapIcon},
     {label: 'PhD student at', text: 'Tufts University', Icon: OfficeBuildingIcon},
@@ -186,7 +186,7 @@ export const skills: SkillGroup[] = [
 export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Deconvolution of Ultra-massive Galaxies at 3 < z < 4',
-    description: 'Example of deconvolution using Firdec (a finite resolution deconvolution software)',
+    description: 'Example of deconvolution using Firdec (a finite resolution deconvolution software)ssdesjknvekjvndlnvdslnvlsknvklsvmndkslnvklsdnvklsnvsklnvnvjksnvkjsnvklsnvlksnvklwnvjkewnvjkwnvleksnvlkesnvlksnvklsnvklsnvlkwnvlksnvlksnvlksnvklsnvlksnvlksnvlsnvlsnesklvnslknvslkvneslkfneslnfsmfnlsfmekwls',
     url: 'https://timbaker.me',
     image: porfolioImage1,
   },
@@ -196,6 +196,7 @@ export const portfolioItems: PortfolioItem[] = [
     url: 'https://timbaker.me',
     image: porfolioImage2,
   },
+  /*
   {
     title: 'Project title 3',
     description: 'Give a short description of your project here.',
@@ -250,6 +251,7 @@ export const portfolioItems: PortfolioItem[] = [
     url: 'https://timbaker.me',
     image: porfolioImage11,
   },
+  */
 ];
 
 /**
@@ -367,4 +369,3 @@ export const socialLinks: Social[] = [
   {label: 'Email', Icon: MailIcon, href: 'mailto:kumail.zaidi@tufts.edu'},
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/zaidikumail'},
   {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/kumail-zaidi-9948b1133/'},
-];
