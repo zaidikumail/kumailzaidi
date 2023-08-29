@@ -7,6 +7,7 @@ import Contact from '../components/Sections/Contact';
 import Footer from '../components/Sections/Footer';
 import Hero from '../components/Sections/Hero';
 import Portfolio from '../components/Sections/Portfolio';
+import Research from '../components/Sections/Research';
 import Resume from '../components/Sections/Resume';
 import Testimonials from '../components/Sections/Testimonials';
 import {homePageMeta} from '../data/data';
@@ -22,6 +23,7 @@ const Home: FC = memo(() => {
       <Hero />
       <About />
       <Portfolio />
+      <Research />
       <Resume />
       <Testimonials />
       <Contact />

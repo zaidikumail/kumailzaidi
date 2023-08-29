@@ -84,6 +84,14 @@ export interface PortfolioItem {
 }
 
 /**
+ * Research section
+ */
+export interface ResearchItem {
+  content: JSX.Element;
+  image: string | StaticImageData;
+}
+
+/**
  * Resume section
  */
 export interface TimelineItem {

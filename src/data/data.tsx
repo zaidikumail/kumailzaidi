@@ -13,6 +13,7 @@ import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
 import porfolioImage2 from '../images/portfolio/portfolio-2.jpg';
+/*
 import porfolioImage3 from '../images/portfolio/portfolio-3.jpg';
 import porfolioImage4 from '../images/portfolio/portfolio-4.jpg';
 import porfolioImage5 from '../images/portfolio/portfolio-5.jpg';
@@ -22,6 +23,7 @@ import porfolioImage8 from '../images/portfolio/portfolio-8.jpg';
 import porfolioImage9 from '../images/portfolio/portfolio-9.jpg';
 import porfolioImage10 from '../images/portfolio/portfolio-10.jpg';
 import porfolioImage11 from '../images/portfolio/portfolio-11.jpg';
+*/
 import profilepic from '../images/profilepic.jpg';
 import testimonialImage from '../images/testimonial.webp';
 import {
@@ -52,7 +54,8 @@ export const SectionId = {
   Hero: 'hero',
   About: 'about',
   Contact: 'contact',
-  Portfolio: 'research',
+  Portfolio: 'portfolio',
+  Research: 'research',
   Resume: 'resume',
   Skills: 'skills',
   Stats: 'stats',
@@ -96,7 +99,7 @@ export const aboutData: About = {
   description: 'The behavior of the cosmos on grand-scales always keeps me drawn in. I also enjoy the problem-solving power of coding. Perhaps then, it is no surprise that I chose to build my career in Astronomy where I can keep myself in awe of the grandiosity of nature while sifting through data using programming.',
   aboutItems: [
     {label: 'Location', text: 'Greater Boston, MA', Icon: MapIcon},
-    {label: 'Age', text: '27', Icon: CalendarIcon},
+    {label: 'Age', text: '28', Icon: CalendarIcon},
     {label: 'Interests', text: 'gym, traveling, road tripping, driving, movies, concerts', Icon: SparklesIcon},
     {label: 'Undergrad', text: 'Bilkent University', Icon: AcademicCapIcon},
     {label: 'PhD student at', text: 'Tufts University', Icon: OfficeBuildingIcon},
@@ -178,8 +181,6 @@ export const skills: SkillGroup[] = [
   },
 ];
 
-
-
 /**
  * Portfolio section
  */
@@ -253,6 +254,21 @@ export const portfolioItems: PortfolioItem[] = [
   },
   */
 ];
+
+/**
+ * Research section
+ */
+export const catalog: ResearchItem[] = [
+  {
+    content: (
+      <p>
+        This was an education research project in which student artifacts were analyzed to develop the skill of becoming better at probing and understanding student thinking and ultimately becoming better teachers. I spent one academic year as a general participant and the following year as a coach.
+      </p>,
+    ),
+    image: porfolioImage1
+  },
+];
+
 
 /**
  * Resume section -- TODO: Standardize resume contact format or offer MDX
@@ -368,4 +384,4 @@ export const contact: ContactSection = {
 export const socialLinks: Social[] = [
   {label: 'Email', Icon: MailIcon, href: 'mailto:kumail.zaidi@tufts.edu'},
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/zaidikumail'},
-  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/kumail-zaidi-9948b1133/'},
+  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/kumail-zaidi-9948b1133/'},]
